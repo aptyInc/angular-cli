@@ -144,6 +144,6 @@
     "zone.js": "^0.8.20"
   },
   "optionalDependencies": {
-    "node-sass": "^4.7.2"
+    "node-sass": "^7.0.0"
   }
 }
