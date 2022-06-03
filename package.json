@@ -104,7 +104,7 @@
     "@angular/common": "^5.2.0",
     "@angular/compiler": "^5.2.0",
     "@angular/compiler-cli": "^5.2.0",
-    "@angular/core": "^5.2.0",
+    "@angular/core": "^11.0.5",
     "@angular/service-worker": "^5.2.0",
     "@types/common-tags": "^1.2.4",
     "@types/copy-webpack-plugin": "^4.0.0",
